@@ -29,3 +29,7 @@ Object.defineProperty(Array.prototype, "equals", { enumerable: false });
 export function equalsExtends(arr1, arr2) {
     return arr1.equals(arr2);
 }
+
+export function stringfy(arr1, arr2){
+  return JSON.stringify(arr1) !== JSON.stringify(arr2);
+}
