@@ -1,0 +1,23 @@
+{
+  "name": "jsbenchmark",
+  "version": "1.0.0",
+  "description": "Repositório direcionado a estudo e analise temporal de desempenho javascript",
+  "main": "index.js",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcordeirofx/jsBenchmark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcordeirofx/jsBenchmark/issues"
+  },
+  "homepage": "https://github.com/tcordeirofx/jsBenchmark#readme"
+}
